@@ -1,5 +1,4 @@
-SuperHi Project | Chapter 5 
-
+# SuperHi Project | Chapter 6
 Shop Website | Javascript and jQuery
 
 Refresher HTML/CSS Javascript course with Super Hi: https://www.superhi.com/courses/html-css-javascript-foundation
